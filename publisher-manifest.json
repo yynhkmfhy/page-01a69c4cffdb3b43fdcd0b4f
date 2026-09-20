@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f7ef3ebe0b29a4a882ca544b",
+  "owner": "yynhkmfhy",
+  "repo": "page-01a69c4cffdb3b43fdcd0b4f",
+  "title": "星愿云(SWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "01a69c4cffdb3b43fdcd0b4f",
+      "a": "星愿云(SWCloud)",
+      "b": "机场官网线路发布页",
+      "entity": "星愿云(SWCloud)",
+      "brand": "星愿云(SWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1568ddbc0574043849100fdef756ab8397c970352239402c67b5b41513f60fcb",
+      "content": {
+        "primary_entity": "星愿云(SWCloud)",
+        "keyword1": "星愿云(SWCloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，星愿云(SWCloud)提供基础版、旗舰版与团队版三档订阅方案，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，支持按月或按年付费。基础版适合移动端与轻度流媒体，旗舰版加入 IPLC 专线优化并覆盖 5 台设备，团队版面向多人协作场景。选择时先确认设备数量与月流量需求，再对比年付价格。",
+          "AI_HERO_SUBTITLE": "多设备订阅按需选择",
+          "AI_HERO_INTRO": "星愿云(SWCloud)为跨境网络访问提供订阅制加速方案，按套餐区分流量、设备数与线路类型。基础版、旗舰版与团队版覆盖单人移动使用到团队多设备场景，可结合月付与年付方式灵活订阅。",
+          "AI_VISUAL_TITLE": "星愿云订阅方案概览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量分级",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和付费周期三方面梳理星愿云(SWCloud)的订阅选择。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备在线，旗舰版 5 台，团队版 20 台，按同时使用的手机、平板与电脑数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，轻度流媒体选基础，4K 与多任务选旗舰及以上。",
+          "AI_FEATURE_TITLE_3": "按月或按年付费",
+          "AI_FEATURE_TEXT_3": "年付价格低于月付合计，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同操作系统适合的客户端不同，安装后导入订阅配置即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月（年付 ¥150），旗舰版 ¥35/月（年付 ¥350），团队版 ¥85/月（年付 ¥850）。旗舰版支持全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按设备与需求逐步操作。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，在基础版、旗舰版、团队版中确定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，旗舰版与团队版可关注专线或高带宽节点说明。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照客户端文档添加订阅地址，完成节点更新后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "星愿云(SWCloud)三个套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线优化与流媒体解锁；团队版每月 1000GB、20 台设备，含 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时使用多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "设备在线数按同时连接的终端计算，同一台设备切换客户端通常占用一个在线名额。超出套餐设备数时，需要先断开其他终端。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，相当于按年节省部分月付合计；旗舰版年付 ¥350，团队版年付 ¥850。长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_4": "订阅配置导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅是否已更新到最新节点，再检查客户端版本与设备系统版本。必要时删除旧配置重新导入订阅地址。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线与每月 1000GB 流量，适合多人协作、多设备办公或对高带宽节点有需求的团队使用。",
+          "AI_CLOSING_TITLE": "选对套餐再订阅",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量，再对比星愿云(SWCloud)三档套餐完成订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qingtongxiaai.cn",
+    "host": "qingtongxiaai.cn"
+  },
+  "file_hashes": {
+    "index.html": "ab14aad0fb4eb72da7e894a5dd81543ef0b7144f04e2b5376b0158f54cf400e1",
+    "sitemap.xml": "df1610fb83b86d67addbd913ac0f384518a4274cc5a5d6a47eb23548810fbd71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5ad3f2d87123f4aafdfb76df11eeb27ff2e334a722678cf1b8f125192839c1c7",
+    "robots.txt": "e88ecd7f839c1c8e000d602493f4212d5069651ed5ea1bb0ade3a10482506a6a",
+    "8e0e2b7dfea6be8018941f32fb5f89d1.txt": "99b0e9ef898788ac4895832861ea5d8c9b2123e5fb46498891fed592b963091e"
+  },
+  "revision": "271d84b2ae89f5f94450a515d5119143b4a096ceb8d15b0aadc2faa4f0180b3b"
+}
